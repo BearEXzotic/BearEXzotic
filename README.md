@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm VanDeavanTrd</h1>
 
-<h3 align="center">From Indonesia Jawa Tengah</h3>
+<h3 align="center">From Indonesia Jakarta Utara</h3>
 </p>
 <h1 align="center">★ Hallow ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
 
